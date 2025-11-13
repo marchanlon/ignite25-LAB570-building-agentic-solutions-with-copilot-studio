@@ -24,9 +24,9 @@ By the end of this session, learners will be able to:
 
 ### 💻 Technologies Used
 
-1. Microsoft Copilot Studio
-1. Model Context Protocol (MCP)
-1. Agent Flows
+1. [Microsoft Copilot Studio](https://learn.microsoft.com/microsoft-copilot-studio/)
+1. [Model Context Protocol (MCP)](https://learn.microsoft.com/microsoft-copilot-studio/agent-extend-action-mcp)
+1. [Agent Flows](https://learn.microsoft.com/microsoft-copilot-studio/flows-overview)
 
 ### 📚 Resources and Next Steps
 
